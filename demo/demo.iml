@@ -99,5 +99,6 @@
     <orderEntry type="library" name="Maven: com.zaxxer:HikariCP:4.0.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:5.3.19" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.3.19" level="project" />
+    <orderEntry type="library" name="Maven: com.baomidou:mybatis-plus-generator:3.5.1" level="project" />
   </component>
 </module>

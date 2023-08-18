@@ -13,7 +13,7 @@ public class User {
     private int sex;
     private int roleId;
     private String phone;
-    @TableField("isvalid")
-    private String isValid;
+    @TableField("isValid")
+    private String isvalid;
 
 }
